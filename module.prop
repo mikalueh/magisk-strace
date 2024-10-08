@@ -1,0 +1,6 @@
+id=magisk-strace
+name=Magisk-strace
+version=1.0.0
+versionCode=100
+author=mikalueh
+description=Get strace Android for Magisk
